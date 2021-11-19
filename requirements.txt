@@ -20,3 +20,6 @@ tomli==1.0.4
 pymysql==0.7.11
 djangorestframework==3.11.2
 django-allauth
+Pillow
+django-rest-auth
+djoser
